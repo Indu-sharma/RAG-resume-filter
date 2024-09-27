@@ -75,7 +75,7 @@ Place all your resumes in the resumes/ directory.
 Note: Upload all resumes at once. For incremental uploads, new resumes will be aggregated with the existing ones.
 
 ## 💡 How to Use
-![UI Interface](https://github.com/Indu-sharma/RAG-resume-filter/blob/main/UI_Interface)
+![UI Interface](https://github.com/Indu-sharma/RAG-resume-filter/blob/main/UI_Interface.png)
 
 - In search section enter questions/ Job description. Example- "Who has the best experience for Python API development?"
 
