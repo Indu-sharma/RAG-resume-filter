@@ -20,7 +20,21 @@ The following diagram illustrates the **Retrieval-Augmented Generation** process
 ![RAG](https://github.com/Indu-sharma/RAG-resume-filter/blob/main/RAG.jpeg)
 
 ---
+## 💻 **Tech Stack**
 
+This project uses the following technologies:
+
+- **Frontend**: 
+  - 🖼️ **HTML/Bootstrap**: For the basic structure and responsive UI.
+  - ✨ **JavaScript**: To handle frontend interactivity.
+
+- **Backend**:
+  - 🐍 **Python**: The core programming language for logic and data processing.
+  - ⚡ **FastAPI**: A high-performance framework for building APIs with Python.
+  - 📚 **llamaindex**: For managing document indexing and querying with LLMs.
+  - 🤖 **OpenAI API**: To enable GPT-powered resume filtering and shortlisting.
+
+---
 ## 🛠️ **Main Pipeline**
 
 The pipeline includes the following key steps:
