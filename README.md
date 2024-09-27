@@ -54,8 +54,8 @@ The system allows users to upload multiple resumes and query them based on speci
 Follow these simple steps to set up the project locally:
 
 ### 1. Clone the repository 🖥️
-git clone https://github.com/your-username/resume-filter-rag.git
-cd resume-filter-rag
+- git clone https://github.com/Indu-sharma/resume-filter-rag.git
+- cd resume-filter-rag
 
 ### 2. Create and activate virtaul env 
 - or use poetry or other dependency managers 
@@ -75,6 +75,7 @@ Place all your resumes in the resumes/ directory.
 Note: Upload all resumes at once. For incremental uploads, new resumes will be aggregated with the existing ones.
 
 ## 💡 How to Use
+![UI Interface](https://github.com/Indu-sharma/RAG-resume-filter/blob/main/UI_Interface)
 
 - In search section enter questions/ Job description. Example- "Who has the best experience for Python API development?"
 
@@ -82,7 +83,8 @@ Note: Upload all resumes at once. For incremental uploads, new resumes will be a
 Hello, I am here to help with resume selection for Python API development. Based on the information provided, here is a candidate who matches the skills for Python API development:
 - **Candidate Name**: R***** ***** (Masked for privacy)
 - **Skill Match Percentage**: 90%
-- **Experience**: Teaching Assistant at A**** Academy By Interview Bit
+- **Experience**: ****** Assistant at A**** ****** By ***** Bit ( Masked for Primvacy)
+
 
 ## 🌟 Next Steps
 - Fine Tune, retrain, test RAG pipeline for better results in candidate matching. 
