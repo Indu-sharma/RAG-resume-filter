@@ -17,7 +17,7 @@ Get started today with resume filtering made simple! 🚀
 
 The following diagram illustrates the **Retrieval-Augmented Generation** process used in this project:
 
-![RAG](RAG.png)
+![RAG](RAG.JPEG)
 
 ---
 
