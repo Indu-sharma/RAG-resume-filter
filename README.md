@@ -50,8 +50,11 @@ pip install -r requirements.txt
 ### 5. Configure OpenAI Key 🔑
 Update your .env file in the root directory with your OpenAI API key:
 LLM_API_KEY=your_openai_api_key
-### 6. Start the server 
-python -m  backend.main  
+### 6. Start the server & Open URL 
+
+- python -m  backend.main  
+- Open URL : http://localhost:8080 
+
 ### 7. Upload Resumes 📤
 Place all your resumes in the resumes/ directory.
 
