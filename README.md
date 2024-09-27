@@ -10,7 +10,7 @@ Is your inbox flooded with resumes? 📥 No worries! This project (sample learni
 - **Query Anytime**: Perform multiple queries on aggregated data.
 - **Powerful Search**: Leverage GPT models to extract candidate details.
 
-Get started today with resume filtering made simple! 🚀
+Make your HR job easy with resume filtering! :)  🚀
 ---
 
 ## 📊 **RAG Flow**
