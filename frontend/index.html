@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Search</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .chat-message {
+            margin-bottom: 10px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="mt-5">Resume Upload and Search</h1>
+        <div class="mt-3">
+            <h3>Upload Resumes</h3>
+            <form id="upload-form" enctype="multipart/form-data">
+                <input type="file" id="resume-files" class="form-control mb-3" multiple>
+                <button type="submit" class="btn btn-primary">Upload</button>
+            </form>
+        </div>
+        <div class="mt-5">
+            <h3>Search Resumes</h3>
+            <form id="search-form">
+                <input type="text" id="search-query" class="form-control mb-3" placeholder="Enter search query...">
+                <button type="submit" class="btn btn-success">Search</button>
+            </form>
+        </div>
+        <div class="mt-3" id="chat-container">
+            <h4>Chat Responses</h4>
+        </div>
+    </div>
+
+    <script src="static/js/scripts.js"></script>
+</body>
+</html>

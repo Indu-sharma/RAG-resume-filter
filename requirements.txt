@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+llama-index
+pdfplumber
+openai
+python-dotenv
